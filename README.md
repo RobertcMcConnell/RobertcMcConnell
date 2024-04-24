@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm currently working on a website for my Dairy operation to showcase the products that we offer, and what we do on a day to day. 
+I'm looking to collaborate on multiple levels with anyone that like to code!
 <!--
 **RobertcMcConnell/RobertcMcConnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
