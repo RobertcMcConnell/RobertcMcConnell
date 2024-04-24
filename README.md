@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm currently working on a website for my Dairy operation to showcase the products that we offer, and what we do on a day to day. 
-I'm looking to collaborate on multiple levels with anyone that likes to code! Fun Fact: I love to be outdoors in the mountains and near a stream, river, or lake
+I'm looking to collaborate on multiple levels with anyone that likes to code! I'm looking for help with anything that helps me learn more skills. Fun Fact: I love to be outdoors in the mountains and near a stream, river, or lake.
 <!--
 **RobertcMcConnell/RobertcMcConnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
